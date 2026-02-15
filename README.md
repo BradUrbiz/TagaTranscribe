@@ -9,7 +9,7 @@ Existing datasets rarely include American‑accented Tagalog, mixed English‑Ta
 Here is the link to my model uploaded on Hugging Face
 https://huggingface.co/BradUrbiz/tagatranscribe-v1
 ---
-Audio recordings are anonymzed and feel free to use the model
+Audio recordings are anonymized and feel free to use the model
 ---
 I collected around 700 audio files of speech. This was split up into about 80% train, 10% validation, and 10% test sets. OpenAI's Whisper-small was finetuned on my data.
 Total epochs: 10
@@ -22,4 +22,5 @@ Learning rate: 1e-05
 <img width="328" height="377" alt="Screenshot 2026-01-16 194810" src="https://github.com/user-attachments/assets/ab86f1c6-6330-4fd5-87fb-13978743c26d" />
 ---
 For full explanation, check out Youtube video (not made yet)
+
 
