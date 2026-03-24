@@ -1,6 +1,7 @@
 ﻿# TagaTranscribe
  ---
 Hello! My name is Brad Urbiztondo. This is for my 2026 Stem Fair Project.
+(Prince George's Area Science Fair Systems Software 1st Place & Academy of Health Sciences at Prince George’s Community College Computer Science 1st Place)
 
 Tagalog is spoken by more than 28 million people in the Philippines and over 4 million Filipino Americans, yet it remains a low‑resource language in speech recognition.
 My investigation examines the effect of finetuning Whisper-small on Tagalog and Taglish audio recorded from Filipino American speakers. Audio files were gathered from willing participants in my school’s (Kasama) Filipino Cultural Club. I will test if this does improve transcription accuracy by recording and comparing the (WER) Word Error Rate before & after.
